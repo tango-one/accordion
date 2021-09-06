@@ -1,8 +1,17 @@
 body {
  
 
-    background: rgb(175,103,233);
-    background: -webkit-linear-gradient(60deg, rgba(175,103,233,1) 37%, rgba(101,101,231,1) 52%);  
+
+
+background: #AF67E9;
+background: -webkit-linear-gradient(top, #AF67E9, #6666E7);
+background: -moz-linear-gradient(top, #AF67E9, #6666E7);
+background: linear-gradient(to bottom, #AF67E9, #6666E7);
+background-repeat: no-repeat;
+min-height: 100vh;
 
 }
+
+
+
 
