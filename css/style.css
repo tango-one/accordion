@@ -1,10 +1,8 @@
 body {
-  /*   background: rgb(175,103,233); 
-    background-image: (180deg, rgba(175,103,233,1) 0%, rgba(101,101,231,1) 35%); */
+ 
 
-   /*  background: linear-gradient(to left top, blue, red); */
-
-   background: -webkit-linear-gradient(80deg, hsl(240, 73%, 65%), hsl(273, 75%, 66%));
+    background: rgb(175,103,233);
+    background: -webkit-linear-gradient(60deg, rgba(175,103,233,1) 37%, rgba(101,101,231,1) 52%);  
 
 }
 
