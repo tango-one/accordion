@@ -1,4 +1,4 @@
 # accordion
 frontend mentor - accordion
 
-this project is part of  frontend menter.io and is part of a challenge 
+this project is part of  frontend mentor.io and is part of a challenge 
